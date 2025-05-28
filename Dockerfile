@@ -2,4 +2,4 @@
 FROM ubuntu 
 
 RUN apt-get update 
-CMD [“echo”,”Image createdd”] 
+CMD [“echo”,”Image createddd”] 
