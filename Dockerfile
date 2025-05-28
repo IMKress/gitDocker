@@ -2,4 +2,4 @@
 FROM ubuntu 
 
 RUN apt-get update 
-CMD [“echo”,”Image createddd”] 
+CMD [“echo”,”Image createddd-valjd”] 
